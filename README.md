@@ -171,7 +171,7 @@ Delivered business-focused storytelling
 
 📸 Dashboard Preview
 
-<img width="2090" height="1158" alt="Airline_Case_Study_Dashboard" src="https://github.com/user-attachments/assets/bfe8793c-8c55-45f5-96c6-01fae952d69c" />
+<img width="2090" height="1158" alt="Image" src="https://github.com/user-attachments/assets/0760d0ba-b9e6-4579-b589-801a9a257ce3" />
 
 
 
